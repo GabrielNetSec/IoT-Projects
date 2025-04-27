@@ -1,0 +1,26 @@
+# Arduino secrets and local config files
+secrets.h
+
+# Compiled object files and binaries
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+
+# Arduino IDE build folder
+/build/
+.arduino/
+
+# PlatformIO build folder
+.pio/
+
+# VSCode workspace settings (optional)
+.vscode/
+
+# Mac and Linux hidden files
+.DS_Store
+*.swp
+
+# Windows hidden files
+Thumbs.db

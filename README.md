@@ -26,7 +26,7 @@ detection solution adaptable to diverse environmental conditions and application
 - MQTT over LoRaWAN.
 
 
-# “Water Tap Monitoring System”
+# Water Tap Monitoring System”
 
 ## Objective
 
@@ -42,3 +42,8 @@ transfer of information over long distances.
 - Arduino R4 with integrated WIFI ESP32.
 - Water flow sensor YF-S201.
 - SIM800L GSM/GPRS Module.
+
+## Project Coding
+
+- [Water Leak Detector (C++/Arduino IoT)](./arduino-water-leak-detector): Professional real-time water flow monitoring using ESP32 and C++ (see full details in the project folder).
+
